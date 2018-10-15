@@ -1,0 +1,12 @@
+@charset "utf-8";
+.footer-vadzim {
+	height: 100%;
+    width: 100%;
+    background: lightgray;
+	margin-top: 12px;
+	padding: 23px 0px;
+}
+
+.colortext {
+	color: red;
+}
