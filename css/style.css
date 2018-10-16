@@ -11,17 +11,3 @@
 	color: red;
 }
 
-.wrapper-img{    
-    position: relative;
-   
-}
-.wrapper-img .img-hide{    
-    opacity: 0;  
-	width: 100%;
-	position: absolute;
-}
-.wrapper-img:hover .img-hide{
-    opacity: 1;
-    position: absolute; top: 0; left: 0;  
-    transition: all 0.5s ease-in-out;   
-}
